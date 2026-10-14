@@ -32,3 +32,10 @@ public class EmployeeSalaryCalculator {
         System.out.printf("Final Salary = %.2f%n", finalSalary);
     }
 }
+
+
+// OUTPUT.......
+
+Gross Salary = 15000.00
+Deduction = 750.00
+Final Salary = 14250.00
